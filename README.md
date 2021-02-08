@@ -1,5 +1,8 @@
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 [![Linkedin: grecomilani](https://img.shields.io/badge/-grecomilani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grecomilani/)](https://www.linkedin.com/in/grecomilani/)
 [![GitHub Greco](https://img.shields.io/github/followers/grecolima?label=follow&style=social)](https://github.com/grecolima)
+[![Instagram: greco.mln](https://img.shields.io/badge/-greco.mln-white?style=flat-square&logo=Instagram&logoColor=linear-gradient(45deg,%20#405de6,%20#5851db,%20#833ab4,%20#c13584,%20#e1306c,%20#fd1d1d)=https://www.instagram.com/grecolima)](https://www.instagram.com/grecolima)
 
 Hi, I'm Greco, a Full Stack Java Developer 🚀 from Brazil. 
 
