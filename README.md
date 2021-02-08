@@ -2,9 +2,10 @@
 
 [![Linkedin: grecomilani](https://img.shields.io/badge/-grecomilani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grecomilani/)](https://www.linkedin.com/in/grecomilani/)
 [![GitHub Greco](https://img.shields.io/github/followers/grecolima?label=follow&style=social)](https://github.com/grecolima)
-[![Instagram: greco.mln](https://img.shields.io/badge/-greco.mln-white?style=flat-square&logo=Instagram&logoColor=linear-gradient(45deg,%20#405de6,%20#5851db,%20#833ab4,%20#c13584,%20#e1306c,%20#fd1d1d)=https://www.instagram.com/grecolima)](https://www.instagram.com/grecolima)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat&logo=Medium&logoColor=white)](https://medium.com/@grecolima)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/greco.mln/)
 
-Hi, I'm Greco, a Full Stack Java Developer 🚀 from Brazil. 
+#### Hi, I'm Greco, a Full Stack Java Developer 🚀 from Brazil. 
 
 ### Technology Stack 💻
 
