@@ -4,7 +4,9 @@
 [![GitHub Greco](https://img.shields.io/github/followers/grecolima?label=follow&style=social)](https://github.com/grecolima)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat&logo=Medium&logoColor=white)](https://medium.com/@grecolima)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/greco.mln/)
-[![Grecolima's DEV Community Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg=30x30)](https://dev.to/grecolima)
+<a href="https://dev.to/grecolima">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Grecolima's DEV Community Profile" height="30" width="30">
+</a>
 
 #### Hi, I'm Greco, a Full Stack Java Developer 🚀 from Brazil. 
 
