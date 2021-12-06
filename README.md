@@ -1,5 +1,5 @@
 <style>
-icons-stack{
+.icons-stack{
     height:10px;
     style="margin:0;padding:0;
 }
