@@ -1,6 +1,7 @@
 <style>
 icons-stack{
     height:10px;
+    style="margin:0;padding:0;
 }
 </style>
 
