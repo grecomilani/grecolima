@@ -1,3 +1,9 @@
+<style>
+.icons-stack{
+    height:10px;
+}
+</style>
+
 <img src="https://github.com/GrecoLima/grecolima/blob/main/GrecoMilani.gif" alt="Here is a little bit about me!">
 
 
@@ -15,7 +21,7 @@
 
 ##### **Technology Stack** 💻
 
-<img align="left" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img class ="icons-stack" align="left" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 
 <img align="left" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 
