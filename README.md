@@ -47,7 +47,6 @@
 <img align="left" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 
 <br/><br/>
-<br/><br/>
 <br/>
 
 ##### Workflow Platforms ⏱️
