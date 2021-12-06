@@ -1,9 +1,4 @@
-<style>
-.icons-stack{
-    height:10px;
-    style="margin:0;padding:0;
-}
-</style>
+(setq markdown-css-paths '("/path/to/custom.css"))
 
 <img src="https://github.com/GrecoLima/grecolima/blob/main/GrecoMilani.gif" alt="Here is a little bit about me!">
 
