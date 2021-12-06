@@ -14,8 +14,9 @@
 #### Hi, I'm Greco, a Full Stack Java Developer 🚀 from Brazil. 
 
 ##### **Technology Stack** 💻
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
-<img align="left" style="margin:0;padding:0;" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img align="left" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 
 <img align="left" style="margin:0;padding:0;" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 
