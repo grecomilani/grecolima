@@ -13,7 +13,7 @@
 
 #### Hi, I'm Greco, a Full Stack Java Developer 🚀 from Brazil. 
 
-##### ** Technology Stack ** 💻
+##### **Technology Stack** 💻
 
 <img align="left" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 
