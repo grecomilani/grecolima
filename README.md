@@ -1,3 +1,6 @@
+<img src="https://github.com/GrecoLima/grecolima/blob/main/GrecoMilani.gif" alt="Here is a little bit about me!">
+
+
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin: grecomilani](https://img.shields.io/badge/-grecomilani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grecomilani/)](https://www.linkedin.com/in/grecomilani/)
