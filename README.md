@@ -14,14 +14,10 @@
 #### Hi, I'm Greco, a Full Stack Java Developer 🚀 from Brazil. 
 
 ### Technology Stack 💻
- 
-<div style="margin:0"> 
+
 <img align="left" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
 
 <img align="left" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  
-</div>
-
 
 <img align="left" alt="SpringBoot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/>
 
