@@ -13,7 +13,7 @@
 
 #### Hi, I'm Greco, a Full Stack Java Developer 🚀 from Brazil. 
 
-##### Technology Stack 💻
+### Technology Stack 💻
  
 
 <img align="left" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -52,7 +52,7 @@
 
 
 
-##### Workflow Platforms ⏱️
+### Workflow Platforms ⏱️
 
  <img align="left" alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
 
@@ -71,7 +71,7 @@
 <br/>
 <br/>
 
-##### Cloud :cloud:
+### Cloud :cloud:
 
  <img align="left" alt="MicrosoftAzure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 
@@ -81,7 +81,7 @@
 
 <br/>
 
-##### OS 💻
+### OS 💻
 
 <img align="left" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 
@@ -95,7 +95,7 @@
 
 <br/>
 
-##### IDE 👩‍💻 
+### IDE 👩‍💻 
 
 <img align="left" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 
@@ -103,7 +103,7 @@
 
 <br/>
 
-##### Office 👨‍💻
+### Office 👨‍💻
 
 <img align="left" alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 
