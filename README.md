@@ -70,10 +70,3 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-### Recent Acitivies ✨
-<center>
-<table>
-  <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grecolima&hide=html&layout=compact&theme=dark" /></td>
-      <td><img width="440px" align="left" src="https://github-readme-stats.vercel.app/api?username=grecolima&theme=dark&show_icons=true" /></td>
-  </tr>  
