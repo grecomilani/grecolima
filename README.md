@@ -4,9 +4,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin: grecomilani](https://img.shields.io/badge/-grecomilani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grecomilani/)](https://www.linkedin.com/in/grecomilani/)
-[![GitHub Greco](https://img.shields.io/github/followers/grecolima?label=follow&style=social)](https://github.com/grecolima)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat&logo=Medium&logoColor=white)](https://medium.com/@grecolima)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/greco.mln/)
 <a href="https://dev.to/grecolima">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Grecolima's DEV Community Profile" height="23" width="32">
 </a>
